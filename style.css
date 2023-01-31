@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+  }
+  
+  p {
+    color: rgb(14, 47, 72);
+    margin-left: 20px;
+  }
+  
+  a:link {
+    color:rgb(13, 63, 101)
+  }
+
+  a:visited {
+    color:rgb(14, 47, 72)
+  }
+
+  a:hover {
+    color:rgb(95, 123, 144)
+  }
+
+  a:active {
+    color:rgb(80, 171, 241)
+  }
